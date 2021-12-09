@@ -5,6 +5,6 @@ import time
 
 driver = Browser()
 
-driver.go_to('https://fumeaqi.page.link/AppStore')
+driver.go_to('https://google.com')
 
 input("Service is running")
